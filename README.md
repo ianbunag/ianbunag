@@ -4,6 +4,9 @@ Get to know me professionally through my [Personal Portfolio](https://ianbunag.d
 
 See my repositories at [GitLab](https://gitlab.com/yvnbunag)
 
+### Drop me a message
+hey@ianbunag.dev
+
 <!--
 **yvnbunag/yvnbunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
