@@ -1,10 +1,12 @@
-### Hi there 👋
+# Hey there 👋
 
-Get to know me professionally through my [Personal Portfolio](https://ianbunag.dev)
+## See my portfolio
+https://ianbunag.dev
 
-See my repositories at [GitLab](https://gitlab.com/yvnbunag)
+## See my GitLab repositories
+https://gitlab.com/yvnbunag
 
-### Drop me a message
+## Drop me a message
 hey@ianbunag.dev
 
 <!--
