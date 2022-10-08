@@ -6,9 +6,6 @@ https://ianbunag.dev
 ## See my GitLab repositories
 https://gitlab.com/yvnbunag
 
-## Drop me a message
-hey@ianbunag.dev
-
 <!--
 **yvnbunag/yvnbunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
