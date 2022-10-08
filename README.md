@@ -6,6 +6,9 @@ https://ianbunag.dev
 ## See my GitLab repositories
 https://gitlab.com/yvnbunag
 
+## Find me in Codewars
+![Find yvnbunag in Codewars](https://www.codewars.com/users/yvnbunag/badges/small)
+
 <!--
 **yvnbunag/yvnbunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
