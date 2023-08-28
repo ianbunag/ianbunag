@@ -1,6 +1,6 @@
 # Hey there 👋
 
-As a Software Developer, I place a strong emphasis on crafting clean code, optimizing workflows through developer tools, and adopting a behavior and test driven development approach to consistently deliver high-quality software.
+Experienced Software Developer with over 4 years of hands-on expertise in crafting clean code, optimizing workflows through developer tools, and adopting a behavior and test driven development approach to consistently deliver high-quality software.
 
 ## See my portfolio
 https://ianbunag.dev
