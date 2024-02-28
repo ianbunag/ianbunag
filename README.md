@@ -1,6 +1,6 @@
 # Hey there 👋
 
-Experienced Software Developer with over 4 years of hands-on expertise in crafting clean code, optimizing workflows through developer tools, and adopting a behavior and test driven development approach to consistently deliver high-quality software.
+Experienced Software Developer with over 4 years of hands-on expertise in crafting clean code, optimizing workflows through developer tools, and adopting a behavior and test-driven development approach to consistently deliver high-quality software. Proven track record through key contributions including a 2 month delivery of a full platform migration software, and test parallelization saving $10,000+.
 
 ## See my portfolio
 https://ianbunag.dev
