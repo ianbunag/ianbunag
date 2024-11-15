@@ -9,7 +9,7 @@ https://ianbunag.dev
 https://gitlab.com/yvnbunag
 
 ## Find me in LeetCode
-<img src="https://leetcode-stats-six.vercel.app/?username=yvnbunag" alt="Find yvnbunag in LeetCode" height="125">
+[![LeetCode user yvnbunag](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyvnbunag&logo=leetcode&logoColor=yellow)](https://leetcode.com/yvnbunag/)
 
 ## Find me in Codewars
 <img src="https://www.codewars.com/users/yvnbunag/badges/small" alt="Find yvnbunag in Codewars" height="20">
