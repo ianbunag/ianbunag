@@ -9,10 +9,10 @@ https://ianbunag.dev
 https://gitlab.com/ianbunag
 
 ## Find me in LeetCode
-[![LeetCode user yvnbunag](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyvnbunag&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/ianbunag/)
+[![LeetCode user yvnbunag](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fianbunag&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/ianbunag/)
 
 ## Find me in Codewars
-<a href="https://www.codewars.com/users/ianbunag"><img src="https://www.codewars.com/users/yvnbunag/badges/small" alt="Find yvnbunag in Codewars" height="20"></a>
+<a href="https://www.codewars.com/users/ianbunag"><img src="https://www.codewars.com/users/ianbunag/badges/small" alt="Find yvnbunag in Codewars" height="20"></a>
 
 <!--
 **yvnbunag/yvnbunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
