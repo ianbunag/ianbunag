@@ -9,8 +9,11 @@ I have a proven track record of impact, including architecting a hospitality pla
 My background includes building full-stack solutions with AWS and Kubernetes, optimizing database queries, and improving test suite efficiency to achieve significant cost savings. I am passionate about tackling complex problems and using innovative technologies to deliver high-quality, impactful software.
 
 Skills:
+
  ❖ Languages & Frameworks: JavaScript, TypeScript, PHP, Go, React, Jest, Yii, PHPUnit
+ 
  ❖ Cloud & DevOps: Amazon Web Services (AWS), CircleCI, GitHub
+ 
  ❖ Methodologies: Agent-Driven Development, Full-Stack Development, Test-Driven Development (TDD), Kanban
 
 Email: hey@ianbunag.dev
