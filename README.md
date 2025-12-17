@@ -1,6 +1,19 @@
-# Hey there 👋
+# Hello there!
 
-Experienced Software Developer with over 5 years of hands-on expertise in crafting clean code, optimizing workflows through developer tools, and adopting a behavior and test-driven development approach to consistently deliver high-quality software using TypeScript, React, and Node.js. Proven track record through key contributions including a 2 month delivery of a full platform migration software, and test parallelization saving $10,000+.
+Experienced Software Engineer with over 6 years of expertise in crafting robust, scalable, and secure applications. I specialize in applying advanced methodologies, including Agent-Driven Development and Test-Driven Development (TDD), using TypeScript, React, and PHP.
+
+I am currently pursuing a Master of Science in Software Engineering (Cybersecurity Specialization) at San José State University (SJSU) to deepen my knowledge in secure and scalable system design.
+
+I have a proven track record of impact, including architecting a hospitality platform migration delivered in two months, resulting in an 80% reduction in manual effort for our sales team. I also led the development of a store credit system using collaborative, agentic programming, which accelerated the time-to-market by 30%.
+
+My background includes building full-stack solutions with AWS and Kubernetes, optimizing database queries, and improving test suite efficiency to achieve significant cost savings. I am passionate about tackling complex problems and using innovative technologies to deliver high-quality, impactful software.
+
+Skills:
+ ❖ Languages & Frameworks: JavaScript, TypeScript, PHP, Go, React, Jest, Yii, PHPUnit
+ ❖ Cloud & DevOps: Amazon Web Services (AWS), CircleCI, GitHub
+ ❖ Methodologies: Agent-Driven Development, Full-Stack Development, Test-Driven Development (TDD), Kanban
+
+Email: hey@ianbunag.dev
 
 ## See my portfolio
 https://ianbunag.dev
