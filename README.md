@@ -24,7 +24,8 @@ https://ianbunag.dev
 https://gitlab.com/ianbunag
 
 ## Find me in TryHackMe
-<a href="https://tryhackme.com/p/jianbunag"><img height="100" alt="Find jianbunag in TryHackMe" src="https://github.com/user-attachments/assets/bba89660-7854-4692-9487-0d3775caa196" /></a>
+
+<a href="https://tryhackme.com/p/jianbunag"><img height="100" alt="Find jianbunag in TryHackMe" src="https://github.com/user-attachments/assets/14e643dc-b766-4718-8b26-be536025471a" /></a>
 
 ## Find me in LeetCode
 [![LeetCode user yvnbunag](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fianbunag&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/ianbunag/)
